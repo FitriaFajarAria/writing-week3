@@ -112,7 +112,7 @@ mengakses index multidimensional array
            
 # JS Intermediate-Object
 
-Dalam dunia programming bject adalah sebuah tipe data pada variabel yang menyimpan properti dan fungsi (method), properti adalah data lengkap dari sebuah object, method adalah action dari sebuah object. Apa saja yang dapat dilakukan dari suatu object. Object dapat diassign kedalam sebuah variabel.
+Dalam dunia programming object adalah sebuah tipe data pada variabel yang menyimpan properti dan fungsi (method), properti adalah data lengkap dari sebuah object, method adalah action dari sebuah object. Apa saja yang dapat dilakukan dari suatu object. Object dapat diassign kedalam sebuah variabel.
 
             let sun = {
             nama: 'matahari',
